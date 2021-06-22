@@ -13,7 +13,7 @@
 
 <div class="form-row">
     <div class="form-group col-md-6">
-    <input type = "hidden" name="id" value="{{$data['id']}}" >
+    <input type = "hidden" name="id"  value="{{$data['id']}}" >
     <input type = "text" name="name" value="{{$data['name']}}"> <br><br>
     <input type = "text" name="price" value="{{$data['price']}}"> <br><br>
     <td>
